@@ -1,0 +1,32 @@
+.navbar {
+    background-color: rgb(92, 122, 204);
+    padding: 1rem 0;
+    transition: all .3s ease;
+}
+
+.navbar-toggle {
+    padding: 0;
+}
+
+.navbar-brand {
+    color: #FFF;
+    font-weight: bold;
+    font-size: 2.5rem;
+    transition: all .3s ease;
+}
+
+.navbar-brand-toggle {
+    font-size: 1.8rem;
+}
+
+.navbar .nav-item .nav-link {
+    color: #FFF;
+    font-weight: bold;
+    font-size: 1.25rem;
+    padding: 0 1.5rem;
+}
+
+.main {
+    width: 100%;
+    height: 80rem;
+}

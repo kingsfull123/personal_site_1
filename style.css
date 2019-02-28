@@ -55,6 +55,15 @@
     position: relative;
 }
 
+.main {
+    margin: 6rem auto;
+}
+
+.main h1 {
+    font-size: 3.5rem;
+    font-weight: bold;
+}
+
 .overlay {
     position: absolute;
     top: 0;
@@ -77,4 +86,38 @@
 
 .overlay:hover {
     opacity: 1;
+}
+
+.about {
+    padding: 4.5rem 0;
+}
+
+.about .btn {
+    font-size: 1rem;
+    padding: .8rem 1.4rem;
+    color: #FFF;
+    background: #007bff;
+   
+}
+
+.about .btn:hover {
+    color: #000;
+    
+}
+
+.contact {
+    padding: 4.5rem 0;
+}
+
+.social {
+    padding: 4.5rem 0;
+}
+
+.social-listing {
+    list-style: none;
+    padding: 0;
+}
+
+.social-listing li {
+    display: inline-block;
 }

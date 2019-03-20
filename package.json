@@ -1,0 +1,25 @@
+{
+  "name": "personal-site-1",
+  "version": "1.0.0",
+  "description": "This is a portfolio site with a functioning contact form",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kingsfull123/personal_site_1.git"
+  },
+  "author": "Jason Yang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kingsfull123/personal_site_1/issues"
+  },
+  "homepage": "https://github.com/kingsfull123/personal_site_1#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.2",
+    "nodemailer": "^5.1.1"
+  }
+}
